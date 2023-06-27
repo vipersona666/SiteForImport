@@ -1,0 +1,7 @@
+/img/.DS_Store
+/img/*.db
+/img/*.png_backup
+/*.html_old
+tmp/
+/.DS_Store
+.DS_Store
